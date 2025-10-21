@@ -24,6 +24,7 @@
     }
   ],
   "categories": ["news"],
+	"background_color": "#002342",
   "display": "standalone",
   "description": "FreshRSS is a self-hosted RSS feed aggregator."
 }
